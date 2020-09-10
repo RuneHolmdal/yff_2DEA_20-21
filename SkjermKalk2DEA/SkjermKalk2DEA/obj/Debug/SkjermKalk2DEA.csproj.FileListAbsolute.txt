@@ -7,3 +7,12 @@ C:\Users\rholm\source\repos\SkjermKalk2DEA\SkjermKalk2DEA\obj\Debug\SkjermKalk2D
 C:\Users\rholm\source\repos\SkjermKalk2DEA\SkjermKalk2DEA\obj\Debug\SkjermKalk2DEA.csproj.CoreCompileInputs.cache
 C:\Users\rholm\source\repos\SkjermKalk2DEA\SkjermKalk2DEA\obj\Debug\SkjermKalk2DEA.exe
 C:\Users\rholm\source\repos\SkjermKalk2DEA\SkjermKalk2DEA\obj\Debug\SkjermKalk2DEA.pdb
+C:\Users\rholm\GitHub\yff_2DEA_20-21\SkjermKalk2DEA\SkjermKalk2DEA\bin\Debug\SkjermKalk2DEA.exe.config
+C:\Users\rholm\GitHub\yff_2DEA_20-21\SkjermKalk2DEA\SkjermKalk2DEA\bin\Debug\SkjermKalk2DEA.exe
+C:\Users\rholm\GitHub\yff_2DEA_20-21\SkjermKalk2DEA\SkjermKalk2DEA\bin\Debug\SkjermKalk2DEA.pdb
+C:\Users\rholm\GitHub\yff_2DEA_20-21\SkjermKalk2DEA\SkjermKalk2DEA\obj\Debug\SkjermKalk2DEA.csprojAssemblyReference.cache
+C:\Users\rholm\GitHub\yff_2DEA_20-21\SkjermKalk2DEA\SkjermKalk2DEA\obj\Debug\SkjermKalk2DEA.Properties.Resources.resources
+C:\Users\rholm\GitHub\yff_2DEA_20-21\SkjermKalk2DEA\SkjermKalk2DEA\obj\Debug\SkjermKalk2DEA.csproj.GenerateResource.cache
+C:\Users\rholm\GitHub\yff_2DEA_20-21\SkjermKalk2DEA\SkjermKalk2DEA\obj\Debug\SkjermKalk2DEA.csproj.CoreCompileInputs.cache
+C:\Users\rholm\GitHub\yff_2DEA_20-21\SkjermKalk2DEA\SkjermKalk2DEA\obj\Debug\SkjermKalk2DEA.exe
+C:\Users\rholm\GitHub\yff_2DEA_20-21\SkjermKalk2DEA\SkjermKalk2DEA\obj\Debug\SkjermKalk2DEA.pdb

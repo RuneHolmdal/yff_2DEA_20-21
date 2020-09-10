@@ -17,10 +17,8 @@ namespace SkjermKalk2DEA
             InitializeComponent();
         }
 
-
         decimal tall1 = 0;
         string regnoperasjon = "";
-
 
         #region talltaster og komma
         private void BtnKomma_Click(object sender, EventArgs e)
@@ -157,6 +155,7 @@ namespace SkjermKalk2DEA
         }
         #endregion
 
+        #region slettetaster
         private void BtnSlett_Click(object sender, EventArgs e)
         {
             tall1 = 0;
@@ -171,5 +170,6 @@ namespace SkjermKalk2DEA
             else
                 display.Text = "0";
         }
+        #endregion 
     }
 }

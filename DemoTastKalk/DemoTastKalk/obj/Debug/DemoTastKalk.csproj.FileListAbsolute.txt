@@ -1,0 +1,10 @@
+C:\Users\rholm\source\repos\DemoTastKalk\DemoTastKalk\bin\Debug\DemoTastKalk.exe.config
+C:\Users\rholm\source\repos\DemoTastKalk\DemoTastKalk\bin\Debug\DemoTastKalk.exe
+C:\Users\rholm\source\repos\DemoTastKalk\DemoTastKalk\bin\Debug\DemoTastKalk.pdb
+C:\Users\rholm\source\repos\DemoTastKalk\DemoTastKalk\obj\Debug\DemoTastKalk.csprojAssemblyReference.cache
+C:\Users\rholm\source\repos\DemoTastKalk\DemoTastKalk\obj\Debug\DemoTastKalk.Form1.resources
+C:\Users\rholm\source\repos\DemoTastKalk\DemoTastKalk\obj\Debug\DemoTastKalk.Properties.Resources.resources
+C:\Users\rholm\source\repos\DemoTastKalk\DemoTastKalk\obj\Debug\DemoTastKalk.csproj.GenerateResource.cache
+C:\Users\rholm\source\repos\DemoTastKalk\DemoTastKalk\obj\Debug\DemoTastKalk.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\repos\DemoTastKalk\DemoTastKalk\obj\Debug\DemoTastKalk.exe
+C:\Users\rholm\source\repos\DemoTastKalk\DemoTastKalk\obj\Debug\DemoTastKalk.pdb
