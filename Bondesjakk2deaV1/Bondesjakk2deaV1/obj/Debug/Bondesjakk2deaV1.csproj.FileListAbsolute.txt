@@ -1,0 +1,10 @@
+C:\Users\rholm\source\repos\Bondesjakk2deaV1\Bondesjakk2deaV1\obj\Debug\Bondesjakk2deaV1.csprojAssemblyReference.cache
+C:\Users\rholm\source\repos\Bondesjakk2deaV1\Bondesjakk2deaV1\obj\Debug\Bondesjakk2deaV1.Form1.resources
+C:\Users\rholm\source\repos\Bondesjakk2deaV1\Bondesjakk2deaV1\obj\Debug\Bondesjakk2deaV1.Properties.Resources.resources
+C:\Users\rholm\source\repos\Bondesjakk2deaV1\Bondesjakk2deaV1\obj\Debug\Bondesjakk2deaV1.csproj.GenerateResource.cache
+C:\Users\rholm\source\repos\Bondesjakk2deaV1\Bondesjakk2deaV1\obj\Debug\Bondesjakk2deaV1.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\repos\Bondesjakk2deaV1\Bondesjakk2deaV1\bin\Debug\Bondesjakk2deaV1.exe.config
+C:\Users\rholm\source\repos\Bondesjakk2deaV1\Bondesjakk2deaV1\bin\Debug\Bondesjakk2deaV1.exe
+C:\Users\rholm\source\repos\Bondesjakk2deaV1\Bondesjakk2deaV1\bin\Debug\Bondesjakk2deaV1.pdb
+C:\Users\rholm\source\repos\Bondesjakk2deaV1\Bondesjakk2deaV1\obj\Debug\Bondesjakk2deaV1.exe
+C:\Users\rholm\source\repos\Bondesjakk2deaV1\Bondesjakk2deaV1\obj\Debug\Bondesjakk2deaV1.pdb
