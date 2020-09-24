@@ -139,6 +139,7 @@
             this.bNyttSpill.TabIndex = 9;
             this.bNyttSpill.Text = "Nytt spill";
             this.bNyttSpill.UseVisualStyleBackColor = true;
+            this.bNyttSpill.Click += new System.EventHandler(this.bNyttSpill_Click);
             // 
             // Form1
             // 
