@@ -1,0 +1,10 @@
+C:\Users\rholm\source\repos\SpillDemo2DEA\SpillDemo2DEA\bin\Debug\SpillDemo2DEA.exe.config
+C:\Users\rholm\source\repos\SpillDemo2DEA\SpillDemo2DEA\bin\Debug\SpillDemo2DEA.exe
+C:\Users\rholm\source\repos\SpillDemo2DEA\SpillDemo2DEA\bin\Debug\SpillDemo2DEA.pdb
+C:\Users\rholm\source\repos\SpillDemo2DEA\SpillDemo2DEA\obj\Debug\SpillDemo2DEA.csprojAssemblyReference.cache
+C:\Users\rholm\source\repos\SpillDemo2DEA\SpillDemo2DEA\obj\Debug\SpillDemo2DEA.Form1.resources
+C:\Users\rholm\source\repos\SpillDemo2DEA\SpillDemo2DEA\obj\Debug\SpillDemo2DEA.Properties.Resources.resources
+C:\Users\rholm\source\repos\SpillDemo2DEA\SpillDemo2DEA\obj\Debug\SpillDemo2DEA.csproj.GenerateResource.cache
+C:\Users\rholm\source\repos\SpillDemo2DEA\SpillDemo2DEA\obj\Debug\SpillDemo2DEA.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\repos\SpillDemo2DEA\SpillDemo2DEA\obj\Debug\SpillDemo2DEA.exe
+C:\Users\rholm\source\repos\SpillDemo2DEA\SpillDemo2DEA\obj\Debug\SpillDemo2DEA.pdb
