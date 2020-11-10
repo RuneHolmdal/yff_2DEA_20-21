@@ -1,0 +1,10 @@
+C:\Users\rholm\source\repos\arrOGlist\arrOGlist\bin\Debug\arrOGlist.exe.config
+C:\Users\rholm\source\repos\arrOGlist\arrOGlist\bin\Debug\arrOGlist.exe
+C:\Users\rholm\source\repos\arrOGlist\arrOGlist\bin\Debug\arrOGlist.pdb
+C:\Users\rholm\source\repos\arrOGlist\arrOGlist\obj\Debug\arrOGlist.csprojAssemblyReference.cache
+C:\Users\rholm\source\repos\arrOGlist\arrOGlist\obj\Debug\arrOGlist.Form1.resources
+C:\Users\rholm\source\repos\arrOGlist\arrOGlist\obj\Debug\arrOGlist.Properties.Resources.resources
+C:\Users\rholm\source\repos\arrOGlist\arrOGlist\obj\Debug\arrOGlist.csproj.GenerateResource.cache
+C:\Users\rholm\source\repos\arrOGlist\arrOGlist\obj\Debug\arrOGlist.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\repos\arrOGlist\arrOGlist\obj\Debug\arrOGlist.exe
+C:\Users\rholm\source\repos\arrOGlist\arrOGlist\obj\Debug\arrOGlist.pdb
