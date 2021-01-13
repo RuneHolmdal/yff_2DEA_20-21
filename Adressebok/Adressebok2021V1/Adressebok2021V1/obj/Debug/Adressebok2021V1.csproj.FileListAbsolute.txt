@@ -1,0 +1,10 @@
+C:\Users\rholm\source\repos\Adressebok2021V1\Adressebok2021V1\bin\Debug\Adressebok2021V1.exe.config
+C:\Users\rholm\source\repos\Adressebok2021V1\Adressebok2021V1\bin\Debug\Adressebok2021V1.exe
+C:\Users\rholm\source\repos\Adressebok2021V1\Adressebok2021V1\bin\Debug\Adressebok2021V1.pdb
+C:\Users\rholm\source\repos\Adressebok2021V1\Adressebok2021V1\obj\Debug\Adressebok2021V1.csprojAssemblyReference.cache
+C:\Users\rholm\source\repos\Adressebok2021V1\Adressebok2021V1\obj\Debug\Adressebok2021V1.Form1.resources
+C:\Users\rholm\source\repos\Adressebok2021V1\Adressebok2021V1\obj\Debug\Adressebok2021V1.Properties.Resources.resources
+C:\Users\rholm\source\repos\Adressebok2021V1\Adressebok2021V1\obj\Debug\Adressebok2021V1.csproj.GenerateResource.cache
+C:\Users\rholm\source\repos\Adressebok2021V1\Adressebok2021V1\obj\Debug\Adressebok2021V1.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\repos\Adressebok2021V1\Adressebok2021V1\obj\Debug\Adressebok2021V1.exe
+C:\Users\rholm\source\repos\Adressebok2021V1\Adressebok2021V1\obj\Debug\Adressebok2021V1.pdb

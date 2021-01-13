@@ -1,0 +1,5 @@
+Rune,34
+Knut,44
+Ole,67
+liv,110
+kjh,76
