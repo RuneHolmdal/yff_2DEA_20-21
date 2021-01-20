@@ -27,7 +27,7 @@ namespace SkjermKalk2DEA
                 display.Text = display.Text + ",";
         }
 
-        private void btn0_Click(object sender, EventArgs e)
+        private void Btn0_Click(object sender, EventArgs e)
         {
             // hvis displayet ikke viser 0 --> Legg til en 0
             if (display.Text != "0")
@@ -52,7 +52,7 @@ namespace SkjermKalk2DEA
                 display.Text = display.Text + btn2.Text;
         }
 
-        private void btn3_Click(object sender, EventArgs e)
+        private void Btn3_Click(object sender, EventArgs e)
         {
             if (display.Text == "0")
                 display.Text = btn3.Text;
@@ -60,7 +60,7 @@ namespace SkjermKalk2DEA
                 display.Text = display.Text + btn3.Text;
         }
 
-        private void btn4_Click(object sender, EventArgs e)
+        private void Btn4_Click(object sender, EventArgs e)
         {
             if (display.Text == "0")
                 display.Text = btn4.Text;
@@ -68,7 +68,7 @@ namespace SkjermKalk2DEA
                 display.Text = display.Text + btn4.Text;
         }
 
-        private void btn5_Click(object sender, EventArgs e)
+        private void Btn5_Click(object sender, EventArgs e)
         {
             if (display.Text == "0")
                 display.Text = btn5.Text;
@@ -76,7 +76,7 @@ namespace SkjermKalk2DEA
                 display.Text = display.Text + btn5.Text;
         }
 
-        private void btn6_Click(object sender, EventArgs e)
+        private void Btn6_Click(object sender, EventArgs e)
         {
             if (display.Text == "0")
                 display.Text = btn6.Text;
@@ -84,7 +84,7 @@ namespace SkjermKalk2DEA
                 display.Text = display.Text + btn6.Text;
         }
 
-        private void btn7_Click(object sender, EventArgs e)
+        private void Btn7_Click(object sender, EventArgs e)
         {
             if (display.Text == "0")
                 display.Text = btn7.Text;
@@ -92,7 +92,7 @@ namespace SkjermKalk2DEA
                 display.Text = display.Text + btn7.Text;
         }
 
-        private void btn8_Click(object sender, EventArgs e)
+        private void Btn8_Click(object sender, EventArgs e)
         {
             if (display.Text == "0")
                 display.Text = btn8.Text;
@@ -100,7 +100,7 @@ namespace SkjermKalk2DEA
                 display.Text = display.Text + btn8.Text;
         }
 
-        private void btn9_Click(object sender, EventArgs e)
+        private void Btn9_Click(object sender, EventArgs e)
         {
             if (display.Text == "0")
                 display.Text = btn9.Text;
@@ -140,14 +140,14 @@ namespace SkjermKalk2DEA
             regnoperasjon = btnMinus.Text;
         }
 
-        private void btnGange_Click(object sender, EventArgs e)
+        private void BtnGange_Click(object sender, EventArgs e)
         {
             tall1 = Convert.ToDecimal(display.Text);
             display.Text = "0";
             regnoperasjon = btnGange.Text;
         }
 
-        private void btnDele_Click(object sender, EventArgs e)
+        private void BtnDele_Click(object sender, EventArgs e)
         {
             tall1 = Convert.ToDecimal(display.Text);
             display.Text = "0";
@@ -163,7 +163,7 @@ namespace SkjermKalk2DEA
             display.Text = "0";
         }
 
-        private void btnSlettTilbake_Click(object sender, EventArgs e)
+        private void BtnSlettTilbake_Click(object sender, EventArgs e)
         {
             if (display.Text.Length > 1)
                 display.Text = display.Text.Remove(display.Text.Length - 1);

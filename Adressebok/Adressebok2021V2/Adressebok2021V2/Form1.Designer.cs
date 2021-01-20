@@ -39,6 +39,10 @@
             this.lbAntall = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.tbSøk = new System.Windows.Forms.TextBox();
+            this.tbEpost = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.btRediger = new System.Windows.Forms.Button();
+            this.btSlett = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // tbNavn
@@ -80,9 +84,9 @@
             // btLagre
             // 
             this.btLagre.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btLagre.Location = new System.Drawing.Point(153, 208);
+            this.btLagre.Location = new System.Drawing.Point(153, 285);
             this.btLagre.Name = "btLagre";
-            this.btLagre.Size = new System.Drawing.Size(220, 80);
+            this.btLagre.Size = new System.Drawing.Size(220, 104);
             this.btLagre.TabIndex = 4;
             this.btLagre.Text = "Lagre oppføring";
             this.btLagre.UseVisualStyleBackColor = true;
@@ -148,11 +152,56 @@
             this.tbSøk.TabIndex = 10;
             this.tbSøk.TextChanged += new System.EventHandler(this.tbSøk_TextChanged);
             // 
+            // tbEpost
+            // 
+            this.tbEpost.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbEpost.Location = new System.Drawing.Point(153, 212);
+            this.tbEpost.Name = "tbEpost";
+            this.tbEpost.Size = new System.Drawing.Size(220, 39);
+            this.tbEpost.TabIndex = 11;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(28, 215);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(96, 32);
+            this.label6.TabIndex = 12;
+            this.label6.Tag = "";
+            this.label6.Text = "Epost:";
+            // 
+            // btRediger
+            // 
+            this.btRediger.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btRediger.Location = new System.Drawing.Point(153, 395);
+            this.btRediger.Name = "btRediger";
+            this.btRediger.Size = new System.Drawing.Size(220, 104);
+            this.btRediger.TabIndex = 13;
+            this.btRediger.Text = "Rediger oppføring";
+            this.btRediger.UseVisualStyleBackColor = true;
+            this.btRediger.Click += new System.EventHandler(this.btRediger_Click);
+            // 
+            // btSlett
+            // 
+            this.btSlett.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btSlett.Location = new System.Drawing.Point(404, 395);
+            this.btSlett.Name = "btSlett";
+            this.btSlett.Size = new System.Drawing.Size(220, 104);
+            this.btSlett.TabIndex = 14;
+            this.btSlett.Text = "Slett oppføring";
+            this.btSlett.UseVisualStyleBackColor = true;
+            this.btSlett.Click += new System.EventHandler(this.btSlett_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 567);
+            this.Controls.Add(this.btSlett);
+            this.Controls.Add(this.btRediger);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.tbEpost);
             this.Controls.Add(this.tbSøk);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.lbAntall);
@@ -186,6 +235,10 @@
         private System.Windows.Forms.Label lbAntall;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox tbSøk;
+        private System.Windows.Forms.TextBox tbEpost;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Button btRediger;
+        private System.Windows.Forms.Button btSlett;
     }
 }
 
