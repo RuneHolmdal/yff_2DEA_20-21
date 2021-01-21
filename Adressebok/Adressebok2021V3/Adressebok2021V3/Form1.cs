@@ -1,5 +1,6 @@
 ﻿/*
- * V3 er lik V2
+ * V3 er lik V2, men skal skrives om til bruk av klasse.
+ * Se Person.cs
  */
 using System;
 using System.Collections.Generic;
@@ -16,17 +17,20 @@ namespace Adressebok2021V3
         {
             InitializeComponent();
         }
-        List<string> oppføringerSL = new List<string>();
+
+        List<Person> personer = new List<Person>();
+        
+
         string dataFilNavn = "data.txt";
 
         private void tbSøk_TextChanged(object sender, EventArgs e)
         {
             lbInnhold.Items.Clear();
-            for (int i = 0; i < oppføringerSL.Count; i++)
+            for (int i = 0; i < personer.Count; i++)
             {
-                if (oppføringerSL[i].Contains(tbSøk.Text))
+                if (personer[i].Navn.Contains(tbSøk.Text))
                 {
-                    lbInnhold.Items.Add(oppføringerSL[i]);
+                    lbInnhold.Items.Add(personer[i].Navn);
                 }
             }
         }
@@ -35,24 +39,24 @@ namespace Adressebok2021V3
         private void lbInnhold_SelectedIndexChanged(object sender, EventArgs e)
         {
             i = lbInnhold.SelectedIndex;
-            // Eksempel 
-            // Dersom innhold i oppføringerSL[i] er "Rune,3232323"
-            // Blir stringen delt, og innhold i opf blir:
-            // opf[0] <- Rune
-            // opf[1] <- 3232323
-            string[] opf = oppføringerSL[i].Split(',');
-            tbNavn.Text = opf[0];
-            tbTlf.Text = opf[1];
-            tbEpost.Text = opf[2];
+            tbNavn.Text = personer[i].Navn;
+            tbTlf.Text = personer[i].Telefon;
+            tbEpost.Text = personer[i].Epost;
+
             btRediger.Enabled = true;
             btLagre.Enabled = false;
         }
 
         private void btLagre_Click(object sender, EventArgs e)
         {
-            oppføringerSL.Add(tbNavn.Text + "," + tbTlf.Text + "," + tbEpost.Text);
-            lbInnhold.Items.Add(tbNavn.Text + "," + tbTlf.Text + "," + tbEpost.Text);
-            lbAntall.Text = oppføringerSL.Count.ToString();
+            //lagrer data i personer listen
+            Person p = new Person(tbNavn.Text, tbTlf.Text, tbEpost.Text);
+            personer.Add(p);
+
+            //viser innhold og antall
+            lbInnhold.Items.Add(tbNavn.Text);
+            lbAntall.Text = personer.Count.ToString();
+
             tbNavn.Focus();
         }
 
@@ -67,11 +71,17 @@ namespace Adressebok2021V3
                     string linje;
                     while ((linje = sr.ReadLine()) != null)
                     {
-                        oppføringerSL.Add(linje);
-                        lbInnhold.Items.Add(linje);
+                        string[] opf = linje.Split(',');
+                        //tbNavn.Text = opf[0];
+                        //tbTlf.Text = opf[1];
+                        //tbEpost.Text = opf[2];
+
+                        Person p = new Person(opf[0], opf[1], opf[2]);
+                        personer.Add(p);
+                        lbInnhold.Items.Add(p.Navn);
                     }
                 }
-                lbAntall.Text = Convert.ToString(oppføringerSL.Count);
+                lbAntall.Text = Convert.ToString(personer.Count);
             }
         }
 
@@ -83,9 +93,9 @@ namespace Adressebok2021V3
                 // skriv data til fil
                 using (StreamWriter sw = new StreamWriter(dataFilNavn))
                 {
-                    foreach (string o in oppføringerSL)
+                    foreach (Person p in personer)
                     {
-                        sw.WriteLine(o);
+                        sw.WriteLine(p.Navn + "," + p.Telefon + "," + p.Epost);
                     }
                 }
             }
@@ -93,13 +103,15 @@ namespace Adressebok2021V3
 
         private void btRediger_Click(object sender, EventArgs e)
         {
-            oppføringerSL[i] = tbNavn.Text + "," + tbTlf.Text + "," + tbEpost.Text;
+            personer[i].Navn = tbNavn.Text;
+            personer[i].Telefon = tbTlf.Text;
+            personer[i].Epost = tbEpost.Text;
 
             // Oppdatere lbInnhold med gjeldende verdier
             lbInnhold.Items.Clear();
-            foreach (string s in oppføringerSL)
+            foreach (Person p in personer)
             {
-                lbInnhold.Items.Add(s);
+                lbInnhold.Items.Add(p.Navn);
             }
             btLagre.Enabled = true;
             btRediger.Enabled = false;
@@ -109,14 +121,14 @@ namespace Adressebok2021V3
         {
             if (i >= 0)
             {
-                oppføringerSL.RemoveAt(i);
+                personer.RemoveAt(i);
             }
-            lbAntall.Text = Convert.ToString(oppføringerSL.Count);
+            lbAntall.Text = Convert.ToString(personer.Count);
             // Oppdatere lbInnhold med gjeldende verdier
             lbInnhold.Items.Clear();
-            foreach (string s in oppføringerSL)
+            foreach (Person p in personer)
             {
-                lbInnhold.Items.Add(s);
+                lbInnhold.Items.Add(p.Navn);
             }
         }
     }

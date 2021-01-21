@@ -7,3 +7,13 @@ C:\Users\rholm\source\repos\Adressebok2021V3\Adressebok2021V3\bin\Debug\Adresseb
 C:\Users\rholm\source\repos\Adressebok2021V3\Adressebok2021V3\bin\Debug\Adressebok2021V3.pdb
 C:\Users\rholm\source\repos\Adressebok2021V3\Adressebok2021V3\obj\Debug\Adressebok2021V3.exe
 C:\Users\rholm\source\repos\Adressebok2021V3\Adressebok2021V3\obj\Debug\Adressebok2021V3.pdb
+C:\Users\rholm\source\github\yff_2DEA_20-21\Adressebok\Adressebok2021V3\Adressebok2021V3\bin\Debug\Adressebok2021V3.exe.config
+C:\Users\rholm\source\github\yff_2DEA_20-21\Adressebok\Adressebok2021V3\Adressebok2021V3\bin\Debug\Adressebok2021V3.exe
+C:\Users\rholm\source\github\yff_2DEA_20-21\Adressebok\Adressebok2021V3\Adressebok2021V3\bin\Debug\Adressebok2021V3.pdb
+C:\Users\rholm\source\github\yff_2DEA_20-21\Adressebok\Adressebok2021V3\Adressebok2021V3\obj\Debug\Adressebok2021V3.csprojAssemblyReference.cache
+C:\Users\rholm\source\github\yff_2DEA_20-21\Adressebok\Adressebok2021V3\Adressebok2021V3\obj\Debug\Adressebok2021V3.Properties.Resources.resources
+C:\Users\rholm\source\github\yff_2DEA_20-21\Adressebok\Adressebok2021V3\Adressebok2021V3\obj\Debug\Adressebok2021V3.csproj.GenerateResource.cache
+C:\Users\rholm\source\github\yff_2DEA_20-21\Adressebok\Adressebok2021V3\Adressebok2021V3\obj\Debug\Adressebok2021V3.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\github\yff_2DEA_20-21\Adressebok\Adressebok2021V3\Adressebok2021V3\obj\Debug\Adressebok2021V3.exe
+C:\Users\rholm\source\github\yff_2DEA_20-21\Adressebok\Adressebok2021V3\Adressebok2021V3\obj\Debug\Adressebok2021V3.pdb
+C:\Users\rholm\source\github\yff_2DEA_20-21\Adressebok\Adressebok2021V3\Adressebok2021V3\obj\Debug\Adressebok2021V3.Form1.resources
