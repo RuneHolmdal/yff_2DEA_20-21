@@ -13,7 +13,7 @@ namespace MittBilregister
 {
     public partial class Form1 : Form
     {
-        List<Bil> bilRegister = new List<Bil>(); 
+        List<Bil> bilRegister = new List<Bil>();
         public Form1()
         {
             InitializeComponent();
@@ -24,7 +24,7 @@ namespace MittBilregister
         {
             try
             {
-                bilRegister.Add(new Bil(tbBilMerke.Text, Convert.ToInt32(tbÅrsmodell.Text)));
+                bilRegister.Add(new Bil(tbBilMerke.Text, Convert.ToInt32(tbÅrsmodell.Text), Convert.ToDecimal(tbForbruk.Text)));
                 OppdaterVisuellListe();
             }
             catch
@@ -40,7 +40,7 @@ namespace MittBilregister
             listBoxBiler.Items.Clear();
             foreach (Bil b in bilRegister)
             {
-                listBoxBiler.Items.Add(b.Merke + ", " + b.Årsmodell);
+                listBoxBiler.Items.Add(b.Merke + ", " + b.Årsmodell + ", " + b.Forbruk + ", " + b.Veteran());
             }
         }
 
@@ -49,6 +49,7 @@ namespace MittBilregister
             tbBilMerke.Text = "";
             tbÅrsmodell.Text = "";
         }
+        
         private void DemoBiler()
         {
             bilRegister.Add(new Bil("Ford", 2000));

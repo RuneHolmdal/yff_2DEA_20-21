@@ -1,0 +1,10 @@
+C:\Users\rholm\source\repos\TestAvMinEgenKonvertKlasse\TestAvMinEgenKonvertKlasse\bin\Debug\TestAvMinEgenKonvertKlasse.exe.config
+C:\Users\rholm\source\repos\TestAvMinEgenKonvertKlasse\TestAvMinEgenKonvertKlasse\bin\Debug\TestAvMinEgenKonvertKlasse.exe
+C:\Users\rholm\source\repos\TestAvMinEgenKonvertKlasse\TestAvMinEgenKonvertKlasse\bin\Debug\TestAvMinEgenKonvertKlasse.pdb
+C:\Users\rholm\source\repos\TestAvMinEgenKonvertKlasse\TestAvMinEgenKonvertKlasse\obj\Debug\TestAvMinEgenKonvertKlasse.csprojAssemblyReference.cache
+C:\Users\rholm\source\repos\TestAvMinEgenKonvertKlasse\TestAvMinEgenKonvertKlasse\obj\Debug\TestAvMinEgenKonvertKlasse.Form1.resources
+C:\Users\rholm\source\repos\TestAvMinEgenKonvertKlasse\TestAvMinEgenKonvertKlasse\obj\Debug\TestAvMinEgenKonvertKlasse.Properties.Resources.resources
+C:\Users\rholm\source\repos\TestAvMinEgenKonvertKlasse\TestAvMinEgenKonvertKlasse\obj\Debug\TestAvMinEgenKonvertKlasse.csproj.GenerateResource.cache
+C:\Users\rholm\source\repos\TestAvMinEgenKonvertKlasse\TestAvMinEgenKonvertKlasse\obj\Debug\TestAvMinEgenKonvertKlasse.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\repos\TestAvMinEgenKonvertKlasse\TestAvMinEgenKonvertKlasse\obj\Debug\TestAvMinEgenKonvertKlasse.exe
+C:\Users\rholm\source\repos\TestAvMinEgenKonvertKlasse\TestAvMinEgenKonvertKlasse\obj\Debug\TestAvMinEgenKonvertKlasse.pdb
