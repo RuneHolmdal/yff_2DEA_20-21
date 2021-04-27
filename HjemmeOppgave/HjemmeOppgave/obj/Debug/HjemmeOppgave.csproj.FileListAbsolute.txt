@@ -1,0 +1,10 @@
+C:\Users\rholm\source\repos\HjemmeOppgave\HjemmeOppgave\bin\Debug\HjemmeOppgave.exe.config
+C:\Users\rholm\source\repos\HjemmeOppgave\HjemmeOppgave\bin\Debug\HjemmeOppgave.exe
+C:\Users\rholm\source\repos\HjemmeOppgave\HjemmeOppgave\bin\Debug\HjemmeOppgave.pdb
+C:\Users\rholm\source\repos\HjemmeOppgave\HjemmeOppgave\obj\Debug\HjemmeOppgave.csprojAssemblyReference.cache
+C:\Users\rholm\source\repos\HjemmeOppgave\HjemmeOppgave\obj\Debug\HjemmeOppgave.Form1.resources
+C:\Users\rholm\source\repos\HjemmeOppgave\HjemmeOppgave\obj\Debug\HjemmeOppgave.Properties.Resources.resources
+C:\Users\rholm\source\repos\HjemmeOppgave\HjemmeOppgave\obj\Debug\HjemmeOppgave.csproj.GenerateResource.cache
+C:\Users\rholm\source\repos\HjemmeOppgave\HjemmeOppgave\obj\Debug\HjemmeOppgave.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\repos\HjemmeOppgave\HjemmeOppgave\obj\Debug\HjemmeOppgave.exe
+C:\Users\rholm\source\repos\HjemmeOppgave\HjemmeOppgave\obj\Debug\HjemmeOppgave.pdb
