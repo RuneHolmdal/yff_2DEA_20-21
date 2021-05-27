@@ -1,0 +1,20 @@
+C:\Users\Datskalf\source\repos\Prøve 2021-04-22\Prøve 2021-04-22\bin\Debug\Prøve 2021-04-22.exe.config
+C:\Users\Datskalf\source\repos\Prøve 2021-04-22\Prøve 2021-04-22\bin\Debug\Prøve 2021-04-22.exe
+C:\Users\Datskalf\source\repos\Prøve 2021-04-22\Prøve 2021-04-22\bin\Debug\Prøve 2021-04-22.pdb
+C:\Users\Datskalf\source\repos\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve 2021-04-22.csprojAssemblyReference.cache
+C:\Users\Datskalf\source\repos\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve_2021_04_22.Form1.resources
+C:\Users\Datskalf\source\repos\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve_2021_04_22.Properties.Resources.resources
+C:\Users\Datskalf\source\repos\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve 2021-04-22.csproj.GenerateResource.cache
+C:\Users\Datskalf\source\repos\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve 2021-04-22.csproj.CoreCompileInputs.cache
+C:\Users\Datskalf\source\repos\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve 2021-04-22.exe
+C:\Users\Datskalf\source\repos\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve 2021-04-22.pdb
+C:\Users\rholm\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Extracted (2)\Prøve 2021-04-22\Prøve 2021-04-22\Prøve 2021-04-22\bin\Debug\Prøve 2021-04-22.exe.config
+C:\Users\rholm\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Extracted (2)\Prøve 2021-04-22\Prøve 2021-04-22\Prøve 2021-04-22\bin\Debug\Prøve 2021-04-22.exe
+C:\Users\rholm\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Extracted (2)\Prøve 2021-04-22\Prøve 2021-04-22\Prøve 2021-04-22\bin\Debug\Prøve 2021-04-22.pdb
+C:\Users\rholm\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Extracted (2)\Prøve 2021-04-22\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve 2021-04-22.csprojAssemblyReference.cache
+C:\Users\rholm\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Extracted (2)\Prøve 2021-04-22\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve_2021_04_22.Form1.resources
+C:\Users\rholm\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Extracted (2)\Prøve 2021-04-22\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve_2021_04_22.Properties.Resources.resources
+C:\Users\rholm\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Extracted (2)\Prøve 2021-04-22\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve 2021-04-22.csproj.GenerateResource.cache
+C:\Users\rholm\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Extracted (2)\Prøve 2021-04-22\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve 2021-04-22.csproj.CoreCompileInputs.cache
+C:\Users\rholm\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Extracted (2)\Prøve 2021-04-22\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve 2021-04-22.exe
+C:\Users\rholm\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Extracted (2)\Prøve 2021-04-22\Prøve 2021-04-22\Prøve 2021-04-22\obj\Debug\Prøve 2021-04-22.pdb
